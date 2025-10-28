@@ -155,4 +155,5 @@ for mode in ["raw", "etl"]:
 
 ```
 
+🔒 Full experiment archive available upon request for collaborators or reviewers.
 
