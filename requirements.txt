@@ -1,0 +1,15 @@
+# requirements.txt
+
+# Core libraries from your notebook
+weave
+wandb
+openai
+ucimlrepo
+openml
+shap
+matplotlib
+seaborn
+scikit-learn
+
+# Helper for loading .env files
+python-dotenv
